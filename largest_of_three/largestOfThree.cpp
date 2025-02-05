@@ -1,14 +1,21 @@
+// largestOfThree.cpp
+// CIT 66 Spring 2025
+// Created by Mark Edmunds
+// Created on 2-4-2025
+// The program determines the largest of three entered integers
+
+
 #include <iostream>
 
 using namespace std;
-
+// getAnIntFromTheUser from funWithFunctions
 int getAnIntFromTheUser(){
     int userInput;
     cout << "Enter a number: " << endl;
     cin >> userInput;
     return userInput;
 }
-
+// while loop implementation
 int largestOrThree(const int num ) {
     int largest = 0;
     int i = 1;
@@ -19,7 +26,7 @@ int largestOrThree(const int num ) {
     }
     return largest;
 }
-
+// if statement implementation
 int largestOfThree() {
 
     int largest = 0;

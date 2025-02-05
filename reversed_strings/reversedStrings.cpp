@@ -1,3 +1,9 @@
+// reversedString.cpp
+// CIT 66 Spring 2025
+// Created by Mark Edmunds
+// Created on 2-4-2025
+// The program reverse an entered string
+
 #include <iostream>
 #include <string>
 

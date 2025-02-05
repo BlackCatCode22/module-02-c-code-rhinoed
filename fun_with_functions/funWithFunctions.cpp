@@ -1,3 +1,9 @@
+// funWithFunctions.cpp
+// CIT 66 Spring 2025
+// Created by Mark Edmunds
+// Created on 2-4-2025
+// The program uses three function one to get an int from the user another to compare ints and a third to sum them.
+
 #include <iostream>
 #include <string>
 

@@ -7,6 +7,7 @@
 
 #include <iostream>
 #include <string>
+#include  <climits>
 
 using namespace std;
 // getAnIntFromTheUser from funWithFunctions
